@@ -6,6 +6,7 @@ const Header = () => {
             <h1>Welcome to React Routing!</h1>
             <CustomLink to='/'>Home</CustomLink>
             <CustomLink to='/friends'>Friends</CustomLink>
+            <CustomLink to='/posts'>Posts</CustomLink>
             <CustomLink to='/about'>Abouts</CustomLink>
         </div>
     );
