@@ -7,6 +7,7 @@ const Header = () => {
             <CustomLink to='/'>Home</CustomLink>
             <CustomLink to='/friends'>Friends</CustomLink>
             <CustomLink to='/posts'>Posts</CustomLink>
+            <CustomLink to='/countries'>Countries</CustomLink>
             <CustomLink to='/about'>Abouts</CustomLink>
         </div>
     );
